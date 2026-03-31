@@ -68,23 +68,6 @@ me.say_hi()
 |---|---|---|
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dibyaranjan-sahoo-01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibyaranjan-sahoo-01&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dibyaranjan-sahoo-01&theme=tokyonight&border_radius=10" height="180em"/>
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
