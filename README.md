@@ -23,7 +23,7 @@
 class Dibyaranjan:
     def __init__(self):
         self.name       = "Dibyaranjan Sahoo"
-        self.degree     = "Final Year—Diploma CSE Student"
+        self.degree     = "Second Year—B-Tech CSE Student"
         self.interests  = ["Artificial Intelligence", "Web Development", "Cybersecurity"]
         self.learning   = ["Machine Learning", "Ethical Hacking", "System Design"]
         self.goal       = "Turn ideas into real-world impactful projects 🚀"
